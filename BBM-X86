@@ -18,12 +18,12 @@ In delta.ARP = Exp.Set[+]
 Load proud = Exp{Int}{
 
 Fast reload %p to proudLoad Arp: 
-Fast load %0 in proudLoad is Activated: 
+Fast load %0 in proudLoad is Activated: q
       
      Dic [+] = %? In ProudParce is: 
-     #teutvaideur[+] = ProudParce[%?] 
+     #Preus[+] = ProudParce[%?] 
          
-       CpU is teutvaideur ProudParce[%] 
+       CpU is Pte.0Arp ProudParce[%] 
 SystemUpload CpU is Detected : 
 
 Dec[Exp].ProudLoad[%] 
@@ -79,3 +79,6 @@ Det[0xP-PixelMega] :
 }
 }
 }
+
+
+    
